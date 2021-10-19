@@ -1,0 +1,48 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    line-height: 1.2em;
+}
+
+header {
+    background-color: rgb(245, 210, 221);
+}
+body{
+    background-color: lavenderblush;
+    color:palevioletred;
+    font-size: 16px;
+}
+
+.pink-border {
+    border: 2px solid palevioletred;
+}
+
+.titel1 {
+    font-size: 30px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:rgb(212, 76, 122);
+    font-weight: bolder;
+    
+}
+.titel2 {
+    font-size:18px;
+    color:rgb(212, 76, 122);
+}
+.titel3 {
+    font-size:16px;
+    color:rgb(212, 76, 122);
+}
+.tekst {
+    font-size: 14px;
+}
+.ondertekst {
+    font-size: 12px;
+    font-weight:lighter
+}
+.lstyle {
+    font-size: 14px;
+    color:rgb(132, 114, 247);
+    font-weight:lighter
+}
+
+
+
